@@ -1,16 +1,14 @@
-### Hi there 👋
-🔭 I’m currently working on my university
-<!--
-**Piyapoom65/Piyapoom65** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+@@ -43,9 +43,10 @@ i am also an open-source enthusiast and maintainer. i learned a lot from the ope
+<!--START_SECTION:waka-->
 
-Here are some ideas to get you started:
+```text
+TypeScript   7 hrs 5 mins    ██████████████████░░░░░░░   71.99 %
+JavaScript   2 hrs 18 mins   ██████░░░░░░░░░░░░░░░░░░░   23.42 %
+CSS          27 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.59 %
+TypeScript   5 hrs 19 mins   █████████████░░░░░░░░░░░░   51.64 %
+JavaScript   4 hrs 53 mins   ████████████░░░░░░░░░░░░░   47.37 %
+CSS          6 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.99 %
+Other        0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 %
+```
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<!--END_SECTION:waka-->
